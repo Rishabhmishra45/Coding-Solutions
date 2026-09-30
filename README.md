@@ -7,6 +7,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0414-third-maximum-number](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0414-third-maximum-number](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 <!---LeetCode Topics End-->
