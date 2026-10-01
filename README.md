@@ -7,6 +7,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -24,6 +25,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
