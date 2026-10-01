@@ -12,6 +12,7 @@ Contains topicwise list of solved problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/2460-apply-operations-to-an-array/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/2733-neither-minimum-nor-maximum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Contains topicwise list of solved problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/2460-apply-operations-to-an-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +67,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/2460-apply-operations-to-an-array/) | Easy |
 <!---LeetCode Topics End-->
