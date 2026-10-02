@@ -59,6 +59,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/0387-first-unique-character-in-a-string/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,8 +68,17 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/0387-first-unique-character-in-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/2460-apply-operations-to-an-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/0387-first-unique-character-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
