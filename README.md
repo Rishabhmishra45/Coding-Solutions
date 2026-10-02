@@ -37,6 +37,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0414-third-maximum-number/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/2733-neither-minimum-nor-maximum/) | Easy |
@@ -58,6 +59,7 @@ Contains topicwise list of solved problems.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/0387-first-unique-character-in-a-string/) | Easy |
 ## Bucket Sort
@@ -76,6 +78,7 @@ Contains topicwise list of solved problems.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
