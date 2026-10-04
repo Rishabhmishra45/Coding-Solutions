@@ -15,5 +15,10 @@ Contains topicwise list of solved problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
