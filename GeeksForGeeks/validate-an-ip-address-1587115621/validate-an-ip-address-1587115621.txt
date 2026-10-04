@@ -1,0 +1,35 @@
+
+            string num = "";
+
+            while (i < s.size() && s[i] != '.') {
+
+                // Only digits allowed
+                if (!isdigit(s[i]))
+                    return false;
+
+                num += s[i];
+                i++;
+            }
+
+            // Empty part
+            if (num.empty())
+                return false;
+
+            // Leading zero
+            if (num.size() > 1 && num[0] == '0')
+                return false;
+
+            int number = stoi(num);
+
+            // Number must be 0-255
+            if (number > 255)
+                return false;
+
+            if (i < s.size() && s[i] == '.') {
+                dots++;
+            }
+        }
+
+        return dots == 3;
+    }
+};
