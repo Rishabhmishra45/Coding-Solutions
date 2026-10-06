@@ -19,6 +19,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +28,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
