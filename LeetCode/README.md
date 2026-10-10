@@ -9,6 +9,7 @@ Contains topicwise list of solved problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -30,8 +31,13 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
