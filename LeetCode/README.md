@@ -15,6 +15,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Array
@@ -24,6 +25,7 @@ Contains topicwise list of solved problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
@@ -39,6 +41,7 @@ Contains topicwise list of solved problems.
 | [0012-integer-to-roman](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
