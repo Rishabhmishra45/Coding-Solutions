@@ -21,6 +21,7 @@ Contains topicwise list of solved problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -51,6 +52,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
+| [0066-plus-one](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
