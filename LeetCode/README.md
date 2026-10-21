@@ -11,6 +11,7 @@ Contains topicwise list of solved problems.
 | [0008-string-to-integer-atoi](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
