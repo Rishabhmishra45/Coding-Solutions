@@ -22,6 +22,7 @@ Contains topicwise list of solved problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -42,6 +43,7 @@ Contains topicwise list of solved problems.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0012-integer-to-roman/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
