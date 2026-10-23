@@ -23,6 +23,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -103,6 +104,7 @@ Contains topicwise list of solved problems.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
