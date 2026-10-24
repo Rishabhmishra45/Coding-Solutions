@@ -32,6 +32,7 @@ Contains topicwise list of solved problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
@@ -50,6 +51,7 @@ Contains topicwise list of solved problems.
 | [0128-longest-consecutive-sequence](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +77,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Quicksort
@@ -97,10 +100,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
