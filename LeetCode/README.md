@@ -29,6 +29,7 @@ Contains topicwise list of solved problems.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -110,6 +111,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 <!---LeetCode Topics End-->
