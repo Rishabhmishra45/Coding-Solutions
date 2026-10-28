@@ -122,4 +122,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Rishabhmishra45/Coding-Solutions/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
